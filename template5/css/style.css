@@ -1,0 +1,143 @@
+.one{
+  background: black;
+  color: #fff;
+  width: 60%;
+  margin-top: 30px;
+  margin-left: 8.75%;
+}
+
+@media (max-width:480px){
+  .one{
+    margin-left: 0px;
+    width: 280px;
+  }
+.myFacebook{
+  float: right;
+  margin-top: -120px;
+
+}
+.web{
+  margin-left: -30px;
+}
+}
+.myFacebook{
+  background:#000;
+  padding: 10px;
+}
+.myFacebook:hover{
+  background: ;
+}
+.web{
+padding: 20px;
+}
+.year{
+  font-size: 20px;
+}
+.myColor{
+  background:black;
+min-height: 450px;
+padding: 20px;
+
+}
+.another{
+  background:white;
+  padding-right: 10px;
+  border: 15px solid black;
+
+}
+.new{
+  border: 1px solid black;
+}
+.twenty{
+  border-right: 1px solid black;
+  padding: 10px;
+}
+.curve{
+  border-right: 1px solid black;
+  padding: 10px;
+}
+.webby{
+  border: 1px solid black;
+
+}
+.usa{
+  margin-left: -20px;
+  position: relative;
+}
+.usa:hover{
+  background: white;
+  padding: 10px;
+}
+.box{
+  border: 1px solid black;
+  text-align: center;
+
+}
+.rain{
+  font-size: 35px;
+  color: #000;
+  font-weight: bolder;
+
+  padding: 25px;
+  text-align: center;
+}
+.pic{
+padding: 15px;
+}
+.myTv{
+  background: green;
+  margin-top: -430px;
+  position: absolute;
+}
+.myTv:hover{
+  margin-top: -420px;
+
+}
+.reg{
+  color: #fff;
+  margin-left: 0px;
+}
+.reg:hover{
+  color: #fff;
+  text-decoration: none;
+
+}
+.bird{
+
+  margin-top: -415px;
+  position: absolute;
+  margin-left: 160px;
+
+}
+.share{
+  background: #00e673;
+  margin-top: -430px;
+  position: absolute;
+  margin-left: 260px;
+  padding: 3px;
+}
+.protec{
+  font-size: 11px;
+  /*background:  #00994d;*/
+  color: #fff;
+}
+.icon{
+  font-size: 10px;
+  color: #fff;
+}
+.volunteers{
+  position: absolute;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: -200px;
+}
+.city{
+  position: absolute;
+  background: red;
+  margin-top: -40px;
+  opacity: 0.5;
+  font-size: 30px;
+  color:
+}

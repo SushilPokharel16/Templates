@@ -1,0 +1,28 @@
+body{
+  background-image: url(mynew.jpg) ;
+
+  background-size: cover;
+  position: relative;
+}
+.myline{
+
+  border: 1px solid grey;
+  height: 500px;
+  width: 350px;
+  margin-top: 160px;
+}
+.mytext{
+  color: #000;
+}
+.myobject{
+  position: relative;
+  filter: opacity(0.7);
+}
+.in{
+  color: #fff;
+  width: 80%;
+  margin-left: 30px;
+}
+.me{
+  margin-left: 9px;
+}

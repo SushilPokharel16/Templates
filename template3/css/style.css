@@ -1,0 +1,20 @@
+
+
+/**{
+  margin: 0px auto;
+}*/
+
+body{
+  background: #f0f0f5;
+}
+.top{
+  background: #ff884d;
+  min-height: 350px;
+}
+.beautiful h2,p,h4{
+  text-align: center;
+}
+.last{
+  background: #fff;
+min-height: 350px;
+}
